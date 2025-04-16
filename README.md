@@ -1,4 +1,6 @@
 🕹️ Hand Gesture Game Controller by Manoj
+
+
 Control endless runner games like Subway Surfers or Temple Run using your hand gestures and webcam — no physical controller needed! Built with Python, OpenCV, and MediaPipe.
 
 ✨ Features
